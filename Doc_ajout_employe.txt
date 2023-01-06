@@ -1,0 +1,12 @@
+﻿Procédure pour ajouter un employé : 
+
+
+1- Se rendre sur : https://gitlab.com/simplonclermontia3/vivelescollegues_lakhbir
+2 - Télécharger le script python : vive_les_collegues.py
+3- Télécharger le fichier csv : liste_employe.csv
+4- Ouvrir le terminal et faire la commande suivante : pip install tkcalendar
+5- Ouvrir le script python vive_les_collegues.py et le lancer
+6- Remplir le formulaire pour ajouter un nouvel employé en ajoutant en premier celui qui à la date d’arrivée la plus ancienne ( si deux employés ont la même date d’arrivée, faire par ordre alphabétique du nom de famille, si deux employés ont le même nom de famille faire par ordre alphabétique des prénoms)
+7- Le formulaire doit être remplit de la manière suivante : Nom et Prénom avec une majuscule
+8- Une fois le fichier csv à jour, faire un commit avec la formulation suivante : “Liste employé mise à jour le ‘Date’ avec l’ajout de ‘Nom,Prénom’
+9- Push la mise à jour et attendre la réponse positive du merge

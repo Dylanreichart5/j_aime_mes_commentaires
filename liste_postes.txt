@@ -1,0 +1,7 @@
+Patronne
+Manager
+R&D
+Ingenieur
+Cuisinier
+Concierge
+Stagiaire
